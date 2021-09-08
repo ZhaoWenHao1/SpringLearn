@@ -47,6 +47,8 @@ public class SpringTestStage1 {
     }
 
 
+
+
     /**
      * 案例3：组装一个有依赖关系的bean
      * 下面代码等效于：
